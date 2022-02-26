@@ -2,7 +2,7 @@
 <br>
 
 <h1 align="center">
-  <img alt="move.it" title="move.it" src="./search.gif" />
+  <img src="./Search.gif" />
 </h1>
 
 
